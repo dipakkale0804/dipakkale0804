@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipak Kale</h1>
 <h3 align="center">
-Full-Stack Developer | React.js Expert | Building Scalable & High-Performance Web Apps | Passionate About UI/UX & Web Security
+Full-Stack Developer | React.js Expert | Building Scalable & High-Performance Web Apps | UI/UX Designer | Passionate about Cyber Security
 </h3>
 
 ---
@@ -13,14 +13,14 @@ Full-Stack Developer | React.js Expert | Building Scalable & High-Performance We
 ### 🛠️ Technical Skills
 
 **Languages & Frameworks:**  
-HTML • CSS • JavaScript • TypeScript • C • C++ • Java • Python • Node.js • Express.js • React.js • Bootstrap • Tailwind CSS
+HTML • CSS • JavaScript • C • C++ • Python • Java • React • Node.js • Express • JSP • Servlet • Bootstrap • Tailwind CSS
 
 **Databases & Tools:**  
 MySQL • MongoDB • Git • GitHub • Docker • REST APIs • Payment Gateway Integration • PowerBI • Data Analytics
 
 **UI/UX Tools & Techniques:**  
-Figma • Sketch • Adobe XD • ProtoPie • Framer  
-Wireframing • High-Fidelity Prototyping • A/B Testing • User Research • Design Systems • Usability Testing • User Flows • Information Architecture
+Figma • Adobe XD • ProtoPie • Framer  
+Wireframing • High-Fidelity Prototyping • A/B Testing • User Research
 
 ---
 
@@ -63,5 +63,4 @@ Wireframing • High-Fidelity Prototyping • A/B Testing • User Research • 
 
 ---
 
-### 🔥 Let's build the future, one pixel and line of code at a time!
-
+### 💡 Let’s connect — I’m passionate about solving real-world problems by applying my skills and knowledge in modern web technologies.
