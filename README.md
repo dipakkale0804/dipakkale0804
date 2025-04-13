@@ -26,25 +26,10 @@ Wireframing • High-Fidelity Prototyping • A/B Testing • User Research
 
 ### 📌 Projects
 
-#### 💳 **Payment App UI Design** (UI/UX Project)
-> Tools: Figma, Adobe XD  
-• Designed a high-fidelity prototype focusing on seamless transactions.  
-• Conducted user research and usability testing.  
-• Created interactive prototypes for a smooth journey.
+- **Payment App UI Design**: A high-fidelity UI prototype for a payment app. [View Repo](https://github.com/your-username/payment-app-ui)
+- **Re-designing IRCTC App UI**: Improved the UI for better ticket booking experience. [View Repo](https://github.com/your-username/irctc-app-ui)
+- **Restaurant Management Using QR**: Full-stack app with QR-based menu system. [View Repo](https://github.com/your-username/restaurant-management-qr)
 
-#### 🚉 **Re-designing IRCTC App UI** (UI/UX Project)
-> Tools: Figma, Sketch  
-• Enhanced ticket booking efficiency by 30% with new user flows.  
-• Improved navigation, accessibility, and overall UX.  
-• Conducted testing and iterated based on real user feedback.
-
-#### 🍽️ **Restaurant Management Using QR**
-> Tech Stack: Java, JSP, Servlet, HTML, CSS, Bootstrap  
-• Full-stack web app with QR-based digital menu system.  
-• Improved order processing and deployed for real-time use.  
-• Ensured scalability and smooth performance.
-
----
 
 ### 🏅 Certifications
 
