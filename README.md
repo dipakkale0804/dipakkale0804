@@ -24,12 +24,6 @@ Wireframing • High-Fidelity Prototyping • A/B Testing • User Research
 
 ---
 
-### 📌 Projects
-
-- **Payment App UI Design**: A high-fidelity UI prototype for a payment app. [View Repo](https://github.com/your-username/payment-app-ui)
-- **Re-designing IRCTC App UI**: Improved the UI for better ticket booking experience. [View Repo](https://github.com/your-username/irctc-app-ui)
-- **Restaurant Management Using QR**: Full-stack app with QR-based menu system. [View Repo](https://github.com/your-username/restaurant-management-qr)
-
 
 ### 🏅 Certifications
 
